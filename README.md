@@ -1,6 +1,6 @@
 ### Hi! 👋 
 Welcome to my page! <br>
-I'm Eran, Backend developer from :israel: Tel Aviv, Israel
+I'm Eran, Backend Developer and CleanTech Enthusiast 🌍
 
 ## About Me
 
