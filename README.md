@@ -16,7 +16,7 @@ I am a Back End Engineer with expertise in building Big Data and Machine Learnin
 
 ## Management
 - **Version Control**: ![Git](https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white), ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&logoColor=white), ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052cc?logo=bitbucket&logoColor=white)
-- **Issue Tracking**: ![Jira](https://img.shields.io/badge/-Jira-0052cc?logo=jira&logoColor=white), ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?logo=confluence&logoColor=white)
+- **Project Management**: ![Jira](https://img.shields.io/badge/-Jira-0052cc?logo=jira&logoColor=white), ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?logo=confluence&logoColor=white)
 
 
 
