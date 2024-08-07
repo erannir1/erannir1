@@ -1,6 +1,6 @@
 ### Hi! 👋 
 Welcome to my page! <br>
-I'm Eran, Backend Developer and CleanTech Enthusiast 🌍
+I'm Eran, Backend & Data Team Lead and CleanTech Enthusiast 🌍
 
 ## About Me
 
